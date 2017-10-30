@@ -1,2 +1,0 @@
-# BefosGamesBot
-Discord Bot
